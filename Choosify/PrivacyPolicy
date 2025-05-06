@@ -1,26 +1,35 @@
-Privacy Policy for Choosify
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy – Choosify</title>
+</head>
+<body>
+    <h1>Privacy Policy for Choosify</h1>
+    <p><strong>Effective Date:</strong> 15.04.2025</p>
 
-Effective Date: [15.04.2025]
+    <h2>1. Introduction</h2>
+    <p>Choosify is committed to protecting your privacy. This privacy policy outlines how we collect, use, and protect your information when you use the Choosify app.</p>
 
-1. Introduction
-Choosify  is committed to protecting your privacy. This privacy policy outlines how we collect, use, and protect your information when you use the Choosify app.
+    <h2>2. Data Collection</h2>
+    <p>We do not collect any personal data from users. Choosify does not ask for or store any personal information, such as your name, email address, location, or any other personally identifiable information.</p>
 
-2. Data Collection
-We do not collect any personal data from users. Choosify does not ask for or store any personal information, such as your name, email address, location, or any other personally identifiable information.
+    <h2>3. No Ads</h2>
+    <p>Choosify does not display any advertisements within the app. We are committed to providing a smooth, ad-free experience.</p>
 
-3. No Ads
-Choosify does not display any advertisements within the app. We are committed to providing a smooth, ad-free experience.
+    <h2>4. No Data Sharing</h2>
+    <p>We do not share, sell, or trade any data. As we do not collect any personal data, there is no data to share.</p>
 
-4. No Data Sharing
-We do not share, sell, or trade any data. As we do not collect any personal data, there is no data to share.
+    <h2>5. No Internal Access to Your Data</h2>
+    <p>There is no internal access to any data from users. We do not store or monitor user behavior. The app runs entirely offline and does not require any network or external access.</p>
 
-5. No Internal Access to Your Data
-There is no internal access to any data from users. We do not store or monitor user behavior. The app runs entirely offline and does not require any network or external access.
+    <h2>6. Security</h2>
+    <p>As Choosify does not collect or store any user data, no security measures are necessary. Your privacy is our priority.</p>
 
-6. Security
-As Choosify does not collect or store any user data, no security measures are necessary. Your privacy is our priority.
+    <h2>7. Changes to This Privacy Policy</h2>
+    <p>We may update this privacy policy from time to time. Any changes will be reflected in this document with an updated effective date.</p>
 
-7. Changes to This Privacy Policy
-We may update this privacy policy from time to time. Any changes will be reflected in this document with an updated effective date.
-
-If you have any questions regarding this privacy policy, please contact us at [erik.liebrecht@gmx.de].
+    <p>If you have any questions regarding this privacy policy, please contact us at <a href="mailto:erik.liebrecht@gmx.de">erik.liebrecht@gmx.de</a>.</p>
+</body>
+</html>
