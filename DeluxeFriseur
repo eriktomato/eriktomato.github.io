@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Datenschutzerklärung</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #005a9c;
+    }
+    a {
+      color: #005a9c;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Datenschutzerklärung</h1>
+
+  <h2>1. Allgemeine Hinweise</h2>
+  <p>Diese Webseite erhebt und speichert selbst <strong>keine personenbezogenen Daten</strong>.</p>
+  <p>Für die Terminbuchung verlinken wir auf den externen Dienst <strong>TidyCal</strong>. Die eigentliche Datenerhebung und -verarbeitung erfolgt ausschließlich dort.</p>
+
+  <h2>2. Externer Dienst: TidyCal</h2>
+  <p>Für die Buchung von Terminen nutzen wir den Dienst <strong>TidyCal</strong>, angeboten von <em>AppSumo LLC, 1305 E 6th St, Austin, TX 78702, USA</em>.</p>
+  <p>Beim Aufruf der TidyCal-Buchungsseite werden personenbezogene Daten (z. B. Name, E-Mail-Adresse, Terminwunsch) direkt an TidyCal übermittelt und verarbeitet. Auf diese Datenverarbeitung haben wir <strong>keinen direkten Einfluss</strong>.</p>
+  <p>Informationen zur Datenverarbeitung durch TidyCal finden Sie in der Datenschutzerklärung von TidyCal:<br>
+  👉 <a href="https://tidycal.com/privacy" target="_blank">https://tidycal.com/privacy</a></p>
+
+  <h2>3. Verantwortliche Stelle</h2>
+  <p>Für diese Webseite verantwortlich:</p>
+  <p>
+    <strong>[Dein Name oder Unternehmen]</strong><br>
+    <strong>[E-Mail-Adresse oder Kontaktmöglichkeit]</strong>
+  </p>
+
+  <h2>4. Ihre Rechte</h2>
+  <p>Da keine personenbezogenen Daten über diese Seite verarbeitet werden, entstehen keine direkten Datenschutzrechte gegenüber dem Betreiber dieser Webseite. Für Daten, die über TidyCal verarbeitet werden, gelten die dortigen Datenschutzbestimmungen.</p>
+
+  <h2>5. Hinweise zur Datensicherheit</h2>
+  <p>Bitte beachten Sie, dass beim Verlassen dieser Seite und Aufruf externer Dienste wie TidyCal deren eigene Datenschutzrichtlinien und Sicherheitsstandards gelten.</p>
+</body>
+</html>
