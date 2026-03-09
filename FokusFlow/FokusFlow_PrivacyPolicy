@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy & Impressum - Fokus-Flow</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 850px; margin: 0 auto; padding: 20px; background-color: #f4f7f6; }
+        .container { background: #fff; padding: 40px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; margin-top: 40px; }
+        h2 { color: #2980b9; margin-top: 30px; }
+        .lang-switch { background: #3498db; padding: 15px; border-radius: 8px; margin-bottom: 30px; text-align: center; }
+        .lang-switch a { margin: 0 15px; text-decoration: none; color: #fff; font-weight: bold; font-size: 1.1em; }
+        .lang-switch a:hover { text-decoration: underline; }
+        hr { border: 0; height: 1px; background: #ddd; margin: 50px 0; }
+        .legal-box { border-left: 5px solid #3498db; padding: 15px 25px; background: #f0f7fb; border-radius: 0 8px 8px 0; margin: 20px 0; }
+        .highlight-deletion { background-color: #fff9e6; border: 1px dashed #f39c12; padding: 15px; border-radius: 8px; }
+        footer { font-size: 0.9em; color: #7f8c8d; text-align: center; margin-top: 60px; border-top: 1px solid #eee; padding-top: 20px; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="lang-switch">
+        <a href="#english">English Version</a> | <a href="#deutsch">Deutsche Version</a>
+    </div>
+
+    <section id="english">
+        <h1>Privacy Policy & Legal Disclosure</h1>
+        
+        <div class="legal-box">
+            <h2>Legal Disclosure (Impressum)</h2>
+            <p><strong>Operator:</strong><br>
+            Erik Liebrecht<br>
+            Unstrutstr. 22<br>
+            51371 Leverkusen<br>
+            Germany</p>
+            <p><strong>Contact:</strong><br>
+            Email: erik.liebrecht@gmx.de</p>
+            <p><strong>Responsible for content according to § 55 Abs. 2 RStV:</strong><br>
+            Erik Liebrecht (Address as above)</p>
+        </div>
+
+        <h2>1. Data Processing Overview</h2>
+        <p>The app "Fokus-Flow" is a micro-utility tool designed for local habit tracking. We prioritize your privacy by minimizing data collection.</p>
+
+        <h2>2. Local Data (Offline Storage)</h2>
+        <p>All core functions (habits, statistics, streaks) are processed exclusively on your device. We do not maintain any servers to store your personal habit data.</p>
+
+        <h2>3. Advertising (Google AdMob)</h2>
+        <p>This app is ad-supported. Google AdMob may collect device identifiers (Advertising ID) and approximate location data to serve personalized or non-personalized ads. We use the Google UMP SDK to manage your consent preferences.</p>
+
+        <h2>4. Data Deletion and User Rights</h2>
+        <div class="highlight-deletion">
+            <p><strong>How to delete your data:</strong></p>
+            <ul>
+                <li><strong>Local Data:</strong> You can delete all data stored in the app at any time by uninstalling the app or clearing the app cache in your Android system settings.</li>
+                <li><strong>Advertising Data:</strong> Since we do not use user accounts, we do not store identification data on our own servers. To delete or reset the data collected by Google, please navigate to your Android device settings: <strong>Settings > Google > Ads > Reset/Delete Advertising ID</strong>.</li>
+            </ul>
+        </div>
+        <p>According to GDPR, you have the right to access, rectify, or delete your data at any time. For inquiries, contact us via email.</p>
+    </section>
+
+    <hr>
+
+    <section id="deutsch">
+        <h1>Datenschutzerklärung & Impressum</h1>
+
+        <div class="legal-box">
+            <h2>Impressum</h2>
+            <p><strong>Anbieter:</strong><br>
+            Erik Liebrecht<br>
+            Unstrutstr. 22<br>
+            51371 Leverkusen<br>
+            Deutschland</p>
+            <p><strong>Kontakt:</strong><br>
+            E-Mail: erik.liebrecht@gmx.de</p>
+            <p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
+            Erik Liebrecht (Anschrift wie oben)</p>
+        </div>
+
+        <h2>1. Einleitung</h2>
+        <p>Der Schutz Ihrer persönlichen Daten ist uns ein wichtiges Anliegen. Diese Erklärung informiert Sie über den Umgang mit Daten in der App „Fokus-Flow“.</p>
+
+        <h2>2. Lokale Speicherung</h2>
+        <p>Ihre Gewohnheiten und Statistiken werden ausschließlich lokal in einer Datenbank auf Ihrem Endgerät gespeichert. Es findet keine Übertragung dieser Kerndaten an unsere Server statt.</p>
+
+        <h2>3. Werbung (Google AdMob)</h2>
+        <p>Zur Finanzierung der App nutzen wir Google AdMob. Hierbei werden technische Daten wie die Google Werbe-ID und die IP-Adresse verarbeitet, um Anzeigen zu optimieren und Betrug vorzubeugen. Wir nutzen das UMP-SDK zur Einholung Ihrer Einwilligung (DSGVO).</p>
+
+        <h2>4. Ihre Rechte und Datenlöschung</h2>
+        <div class="highlight-deletion">
+            <p><strong>So löschen Sie Ihre Daten:</strong></p>
+            <ul>
+                <li><strong>Lokale Daten:</strong> Sie können alle in der App gespeicherten Daten jederzeit löschen, indem Sie die App deinstallieren oder den App-Cache in den Android-Systemeinstellungen leeren.</li>
+                <li><strong>Werbe-Daten:</strong> Da wir keine Nutzerkonten führen, speichern wir keine Identifikationsdaten auf eigenen Servern. Um die von Google erfassten Werbe-Daten zu löschen oder zu begrenzen, nutzen Sie bitte die Android-Systemeinstellungen: <strong>Einstellungen > Google > Werbung > Werbe-ID zurücksetzen/löschen</strong>.</li>
+            </ul>
+        </div>
+        <p>Gemäß DSGVO haben Sie das Recht auf Auskunft, Berichtigung oder Löschung Ihrer Daten. Kontaktieren Sie uns bei Fragen gerne per E-Mail.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Erik Liebrecht. Stand: 09. März 2026.</p>
+    </footer>
+</div>
+
+</body>
+</html>
