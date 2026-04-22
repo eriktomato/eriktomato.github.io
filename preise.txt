@@ -1,0 +1,2 @@
+herrenschnitt,20
+damenschnitt,30
