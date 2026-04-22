@@ -1,6 +1,26 @@
-Herrenschnitt,20
-Damenschnitt,25
-Bart,10
+Herrenschnitt,18
+Damenschnitt Waschen schneiden Kurz,25
+Damenschnitt Waschen schneiden Kurz,30
+Damenschnitt Waschen schneiden Lang,30
+Damen Waschen Föhnen,ab 25
+Pony schneiden,5
+Folienstränen kurz,1,5 pro strähne
+Folienstränen mittel,2 pro strähne
+Folienstränen lang,2,5 pro strähne
+Ansatz Farbe bis 2cm,30
+Neufärbung kurz,40
+Neufärbung mittel,50
+Neufärbung lang,60
+Tönung kurz,25
+mittel,35
+lang,40
+Dauerwelle kurz,55
+mittel,65
+lang,75
+
+
+
+Bart,12
 Färben,29
 Waschen & Föhnen,25
 Dauerwelle,50
