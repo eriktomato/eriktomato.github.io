@@ -1,4 +1,9 @@
-herrenschnitt,20
-damenschnitt,30
-bart,10
-färben,20
+Herrenschnitt,20
+Damenschnitt,25
+Bart,10
+Färben,29
+Waschen & Föhnen,25
+Dauerwelle,50
+Augenbrauen zupfen,7
+Wimpern färben,10
+Kinderschnitt,15
