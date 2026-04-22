@@ -1,2 +1,4 @@
 herrenschnitt,20
 damenschnitt,30
+bart,10
+färben,20
